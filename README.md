@@ -67,7 +67,6 @@ inference/generate_motion.py   ED-conditioned motion generation
 tests/test_paper_alignment.py  Model alignment checks
 ```
 
-Stage I motion partitioning is supplied through precomputed region and anchor assets. The underlying mesh data, template assets, and trained checkpoints are not included. No configuration files are distributed.
 
 ## Citation
 
